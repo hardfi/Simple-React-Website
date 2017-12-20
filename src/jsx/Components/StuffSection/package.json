@@ -1,0 +1,6 @@
+{
+  "name": "StuffSection",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./StuffSection.jsx"
+}
